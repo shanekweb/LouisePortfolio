@@ -1,0 +1,292 @@
+.gal1 {
+	position: absolute;
+	z-index: 200;
+	/*bottom: 9px;*/
+	bottom: -40px;
+	left: 3px;
+	text-align: center;
+	width: 97%;
+	height: 40px;
+	background: #282727;
+	-webkit-transition: all ease .4s;
+}
+
+a.gal1Inside {
+	width: 100px;
+	height: 25px;
+	background: #3288c4 !important;
+	margin: 0 auto;
+	font-size: .5em;
+	color: #fff;
+	display: block !important;
+	line-height: 25px;
+	margin-top: 7px;
+	-webkit-transition: all ease .4s;
+}
+
+#portfolio .item:hover .gal1 {
+	bottom: 9px;
+}
+
+a.gal1Inside:hover {
+	background: #2578B3 !important;
+}
+
+
+
+
+.gal2 {
+	position: absolute;
+	z-index: 200;
+	/*bottom: 9px;*/
+	bottom: -40px;
+	left: 3px;
+	text-align: center;
+	width: 97%;
+	height: 40px;
+	background: #282727;
+	-webkit-transition: all ease .4s;
+}
+
+a.gal2Inside {
+	width: 100px;
+	height: 25px;
+	background: #3288c4 !important;
+	margin: 0 auto;
+	font-size: .5em;
+	color: #fff;
+	display: block !important;
+	line-height: 25px;
+	margin-top: 7px;
+	-webkit-transition: all ease .4s;
+}
+
+#portfolio .item:hover .gal2 {
+	bottom: 9px;
+}
+
+a.gal2Inside:hover {
+	background: #2578B3 !important;
+}
+
+
+
+
+.gal3 {
+	position: absolute;
+	z-index: 200;
+	/*bottom: 9px;*/
+	bottom: -40px;
+	left: 3px;
+	text-align: center;
+	width: 97%;
+	height: 40px;
+	background: #282727;
+	-webkit-transition: all ease .4s;
+}
+
+a.gal3Inside {
+	width: 100px;
+	height: 25px;
+	background: #3288c4 !important;
+	margin: 0 auto;
+	font-size: .5em;
+	color: #fff;
+	display: block !important;
+	line-height: 25px;
+	margin-top: 7px;
+	-webkit-transition: all ease .4s;
+}
+
+#portfolio .item:hover .gal3 {
+	bottom: 9px;
+}
+
+a.gal3Inside:hover {
+	background: #2578B3 !important;
+}
+
+
+
+
+.gal4 {
+	position: absolute;
+	z-index: 200;
+	/*bottom: 9px;*/
+	bottom: -40px;
+	left: 3px;
+	text-align: center;
+	width: 97%;
+	height: 40px;
+	background: #282727;
+	-webkit-transition: all ease .4s;
+}
+
+a.gal4Inside {
+	width: 100px;
+	height: 25px;
+	background: #3288c4 !important;
+	margin: 0 auto;
+	font-size: .5em;
+	color: #fff;
+	display: block !important;
+	line-height: 25px;
+	margin-top: 7px;
+	-webkit-transition: all ease .4s;
+}
+
+#portfolio .item:hover .gal4 {
+	bottom: 9px;
+}
+
+a.gal4Inside:hover {
+	background: #2578B3 !important;
+}
+
+
+
+
+.gal5 {
+	position: absolute;
+	z-index: 200;
+	/*bottom: 9px;*/
+	bottom: -40px;
+	left: 3px;
+	text-align: center;
+	width: 97%;
+	height: 40px;
+	background: #282727;
+	-webkit-transition: all ease .4s;
+}
+
+a.gal5Inside {
+	width: 100px;
+	height: 25px;
+	background: #3288c4 !important;
+	margin: 0 auto;
+	font-size: .5em;
+	color: #fff;
+	display: block !important;
+	line-height: 25px;
+	margin-top: 7px;
+	-webkit-transition: all ease .4s;
+}
+
+#portfolio .item:hover .gal5 {
+	bottom: 9px;
+}
+
+a.gal5Inside:hover {
+	background: #2578B3 !important;
+}
+
+
+
+
+.gal6 {
+	position: absolute;
+	z-index: 200;
+	/*bottom: 9px;*/
+	bottom: -40px;
+	left: 3px;
+	text-align: center;
+	width: 97%;
+	height: 40px;
+	background: #282727;
+	-webkit-transition: all ease .4s;
+}
+
+a.gal6Inside {
+	width: 100px;
+	height: 25px;
+	background: #3288c4 !important;
+	margin: 0 auto;
+	font-size: .5em;
+	color: #fff;
+	display: block !important;
+	line-height: 25px;
+	margin-top: 7px;
+	-webkit-transition: all ease .4s;
+}
+
+#portfolio .item:hover .gal6 {
+	bottom: 9px;
+}
+
+a.gal6Inside:hover {
+	background: #2578B3 !important;
+}
+
+
+
+
+.gal7 {
+	position: absolute;
+	z-index: 200;
+	/*bottom: 9px;*/
+	bottom: -40px;
+	left: 3px;
+	text-align: center;
+	width: 97%;
+	height: 40px;
+	background: #282727;
+	-webkit-transition: all ease .4s;
+}
+
+a.gal7Inside {
+	width: 100px;
+	height: 25px;
+	background: #3288c4 !important;
+	margin: 0 auto;
+	font-size: .5em;
+	color: #fff;
+	display: block !important;
+	line-height: 25px;
+	margin-top: 7px;
+	-webkit-transition: all ease .4s;
+}
+
+#portfolio .item:hover .gal7 {
+	bottom: 9px;
+}
+
+a.gal7Inside:hover {
+	background: #2578B3 !important;
+}
+
+
+
+
+.gal8 {
+	position: absolute;
+	z-index: 200;
+	/*bottom: 9px;*/
+	bottom: -40px;
+	left: 3px;
+	text-align: center;
+	width: 97%;
+	height: 40px;
+	background: #282727;
+	-webkit-transition: all ease .4s;
+}
+
+a.gal8Inside {
+	width: 100px;
+	height: 25px;
+	background: #3288c4 !important;
+	margin: 0 auto;
+	font-size: .5em;
+	color: #fff;
+	display: block !important;
+	line-height: 25px;
+	margin-top: 7px;
+	-webkit-transition: all ease .4s;
+}
+
+#portfolio .item:hover .gal8 {
+	bottom: 9px;
+}
+
+a.gal8Inside:hover {
+	background: #2578B3 !important;
+}

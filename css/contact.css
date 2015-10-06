@@ -1,0 +1,49 @@
+fieldset {
+    border: none;
+    padding: 3% 0;
+    position: relative;
+}
+
+fieldset input {
+    width: 90%;
+    background: #e5e5e5;
+    border: none;
+    outline: none;
+    color: #333;
+    padding: 10px 0 10px 15px;
+    margin: 3px 0;
+}
+
+fieldset textarea {
+    width: 90% !important;
+    background: #e5e5e5;
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 10px 0 10px 15px;
+    margin: 3px 0;
+    color: #333;
+    height: 105px;
+
+}
+
+::-webkit-input-placeholder {
+    color: #666;
+}
+
+input.submit {
+    text-align: center;
+    width: 100px;
+    padding: 4px 0;
+    margin: 0;
+    background: #e8230f;
+    color: #fff;
+    position: absolute;
+    right: 3.5%;
+    bottom: 4px;
+}
+.loader {
+    position: absolute;
+    bottom: 8px;
+    right: 16%;
+}
